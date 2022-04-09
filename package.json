@@ -1,5 +1,5 @@
 {
-  "name": "template-parcel-git",
+  "name": "test-git",
   "version": "1.0.0",
   "description": "npm",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntonBoreiko/template-parcel-git.git"
+    "url": "git+https://github.com/AntonBoreiko/test-git.git"
   },
   "keywords": [],
   "author": "Anton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AntonBoreiko/template-parcel-git/issues"
+    "url": "https://github.com/AntonBoreiko/test-git/issues"
   },
-  "homepage": "https://antonboreiko.github.io/template-parcel-git",
+  "homepage": "https://antonboreiko.github.io/test-git",
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-standard": "^16.0.3",
@@ -25,6 +25,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "parcel-bundler": "^1.12.5",
-    "sass": "^1.34.1"
+    "sass": "^1.50.0"
   }
 }
