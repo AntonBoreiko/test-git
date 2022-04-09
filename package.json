@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/AntonBoreiko/template-parcel-git/issues"
   },
-  "homepage": "https://github.com/AntonBoreiko/template-parcel-git#readme",
+  "homepage": "https://antonboreiko.github.io/template-parcel-git",
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-standard": "^16.0.3",
