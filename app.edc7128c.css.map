@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/scss/app.scss"],"names":[],"mappings":"AAAA,SACE,cAAA,CACA,WAAA,CACA,aAEF,OACE","file":"app.edc7128c.css","sourceRoot":"..","sourcesContent":[".content{\n  background: red;\n  width: 100px;\n  height: 400px;\n}\n.class{\n  background: green;\n}\n"]}
